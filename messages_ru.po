@@ -152,6 +152,9 @@ msgstr "Устройство с id=%1 не найдено"
 msgid "multiple_devices_found"
 msgstr "Найдено несколько устройств"
 
+msgid "return_order_missing_reference"
+msgstr "Возвратный заказ %1 не содержит ссылки на исходный заказ"
+
 msgid "order_not_found"
 msgstr "Заказ с id=%1 не найден"
 

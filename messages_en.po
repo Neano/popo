@@ -152,6 +152,9 @@ msgstr "Device with id=%1 not found"
 msgid "multiple_devices_found"
 msgstr "Multiple devices found"
 
+msgid "return_order_missing_reference"
+msgstr "Return order %1 has no reference to the original order"
+
 msgid "order_not_found"
 msgstr "Order with id=%1 not found"
 
