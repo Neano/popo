@@ -212,6 +212,9 @@ msgstr "Failed to process payment"
 msgid "device_transaction_error_close_shift_failure"
 msgstr "Failed to close shift"
 
+msgid "device_transaction_error_refund_failure"
+msgstr "Refund failed"
+
 msgid "driver_not_found"
 msgstr "Driver not found"
 
