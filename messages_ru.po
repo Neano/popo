@@ -436,3 +436,12 @@ msgstr "Расчет блюда с гуидом '%1' не найден"
 
 msgid "discount_calc_artefact_not_found"
 msgstr "Не найдены артефакты для расчета скидки с гуидом '%1'"
+
+msgid "order_discount_not_found"
+msgstr "Скидка не найдена в заказе. Гуид заказа=%1, гуид скидки=%2"
+
+msgid "order_payment_not_found"
+msgstr "Оплата не найдена в заказе. Гуид заказа=%1, гуид оплаты=%2"
+
+msgid "order_calc_info_part_not_found"
+msgstr "Не найдены данные из расчета заказа с гуидом=%1. Тип данных: %2"
