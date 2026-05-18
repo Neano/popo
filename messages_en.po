@@ -439,3 +439,12 @@ msgstr "Dish part calc info with guid '%1' not found"
 
 msgid "discount_calc_artefact_not_found"
 msgstr "Discount calc artefact for discount calc info with guid '%1' not found"
+
+msgid "order_discount_not_found"
+msgstr "Discount line not found in order. Order guid=%1, discount line guid=%2"
+
+msgid "order_payment_not_found"
+msgstr "Payment line not found in order. Order guid=%1, payment line guid=%2"
+
+msgid "order_calc_info_part_not_found"
+msgstr "Calc part with guid=%1 not found. Part type: %2"
