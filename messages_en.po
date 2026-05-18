@@ -317,6 +317,9 @@ msgstr "Tables already taken"
 msgid "unable_to_return_dishes"
 msgstr "Unable to return dishes"
 
+msgid "return_calc_info_missing"
+msgstr "Failed to build combo return receipt: %1 (%2). Contact tech support."
+
 msgid "request_timeout"
 msgstr "Request timeout"
 

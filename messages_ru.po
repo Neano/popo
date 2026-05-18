@@ -317,6 +317,9 @@ msgstr "Столы уже заняты"
 msgid "unable_to_return_dishes"
 msgstr "Невозможно вернуть блюда"
 
+msgid "return_calc_info_missing"
+msgstr "Не удалось построить чек возврата комбо: %1 (%2). Обратитесь в техподдержку."
+
 msgid "request_timeout"
 msgstr "Время ожидания запроса истекло"
 
