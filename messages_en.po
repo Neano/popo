@@ -465,3 +465,24 @@ msgid "live_catalog_modifier_missing"
 msgstr "Modifier id=%2 is missing from the live catalog for dish '%1'"
 msgid "loyalty_reward_kind_unsupported"
 msgstr "Unsupported rkFriends reward kind: %1"
+
+msgid "modifier_price_not_found"
+msgstr "Modifier price not found"
+
+msgid "order_seat_not_found"
+msgstr "Order guest not found"
+
+msgid "failed_to_export_database_files"
+msgstr "Failed to export database files"
+
+msgid "failed_to_read_database_files"
+msgstr "Failed to read database files"
+
+msgid "unknown_tax_item"
+msgstr "Unknown tax item"
+
+msgid "unknown_tax_rate"
+msgstr "Unknown tax rate"
+
+msgid "modifier_snapshot_incomplete"
+msgstr "Modifier snapshot is incomplete"
