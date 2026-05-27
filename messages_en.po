@@ -463,3 +463,5 @@ msgstr "Modifier id=%2 not found in frozen catalog for dish '%1'"
 
 msgid "live_catalog_modifier_missing"
 msgstr "Modifier id=%2 is missing from the live catalog for dish '%1'"
+msgid "loyalty_reward_kind_unsupported"
+msgstr "Unsupported rkFriends reward kind: %1"
