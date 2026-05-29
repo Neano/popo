@@ -474,3 +474,42 @@ msgstr "Loyalty server error: %1 (%2)"
 
 msgid "loyalty_bid_not_found"
 msgstr "Loyalty bid not found for order %1"
+
+msgid "phone_empty"
+msgstr "Phone number is required"
+
+msgid "phone_invalid_chars"
+msgstr "Phone contains invalid characters"
+
+msgid "phone_too_short"
+msgstr "Phone number is too short"
+
+msgid "phone_too_long"
+msgstr "Phone number is too long"
+
+msgid "phone_non_mobile"
+msgstr "Not a mobile number"
+
+msgid "phone_foreign"
+msgstr "Foreign numbers are not supported"
+
+msgid "promocode_empty"
+msgstr "Promocode is required"
+
+msgid "promocode_too_long"
+msgstr "Promocode is too long"
+
+msgid "token_empty"
+msgstr "Token is required"
+
+msgid "token_too_long"
+msgstr "Token is too long"
+
+msgid "token_wrong_parts"
+msgstr "Invalid token format"
+
+msgid "token_wrong_prefix"
+msgstr "Invalid token prefix"
+
+msgid "token_empty_part"
+msgstr "Token part is empty"

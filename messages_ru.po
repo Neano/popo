@@ -475,3 +475,42 @@ msgstr "Ошибка сервера лояльности: %1 (%2)"
 
 msgid "loyalty_bid_not_found"
 msgstr "Заявка для заказа %1 не найдена"
+
+msgid "phone_empty"
+msgstr "Укажите номер телефона"
+
+msgid "phone_invalid_chars"
+msgstr "Недопустимые символы в номере"
+
+msgid "phone_too_short"
+msgstr "Слишком короткий номер"
+
+msgid "phone_too_long"
+msgstr "Слишком длинный номер"
+
+msgid "phone_non_mobile"
+msgstr "Номер не мобильный"
+
+msgid "phone_foreign"
+msgstr "Иностранный номер не поддерживается"
+
+msgid "promocode_empty"
+msgstr "Укажите промокод"
+
+msgid "promocode_too_long"
+msgstr "Слишком длинный промокод"
+
+msgid "token_empty"
+msgstr "Укажите токен"
+
+msgid "token_too_long"
+msgstr "Слишком длинный токен"
+
+msgid "token_wrong_parts"
+msgstr "Неверный формат токена"
+
+msgid "token_wrong_prefix"
+msgstr "Неверный префикс токена"
+
+msgid "token_empty_part"
+msgstr "Пустая часть токена"
