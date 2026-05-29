@@ -514,3 +514,24 @@ msgstr "Неверный префикс токена"
 
 msgid "token_empty_part"
 msgstr "Пустая часть токена"
+
+msgid "modifier_price_not_found"
+msgstr "Цена модификатора не найдена"
+
+msgid "order_seat_not_found"
+msgstr "Гость заказа не найден"
+
+msgid "failed_to_export_database_files"
+msgstr "Не удалось экспортировать файлы базы данных"
+
+msgid "failed_to_read_database_files"
+msgstr "Не удалось прочитать файлы базы данных"
+
+msgid "unknown_tax_item"
+msgstr "Неизвестная налоговая запись"
+
+msgid "unknown_tax_rate"
+msgstr "Неизвестная налоговая ставка"
+
+msgid "modifier_snapshot_incomplete"
+msgstr "Snapshot модификатора неполный"
