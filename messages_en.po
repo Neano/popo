@@ -535,3 +535,18 @@ msgstr "Unknown tax rate"
 
 msgid "modifier_snapshot_incomplete"
 msgstr "Modifier snapshot is incomplete"
+
+msgid "snapshot_discount_detail_missing"
+msgstr "Discount detail not found during snapshot for order '%1', discount '%2'"
+
+msgid "applied_discount_value_missing"
+msgstr "Applied discount value is missing for discount '%1'"
+
+msgid "qr_wrong_prefix"
+msgstr "Invalid QR code prefix"
+
+msgid "qr_empty_payload"
+msgstr "QR code payload is empty"
+
+msgid "qr_too_long"
+msgstr "QR code is too long"

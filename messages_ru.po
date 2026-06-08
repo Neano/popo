@@ -535,3 +535,18 @@ msgstr "Неизвестная налоговая ставка"
 
 msgid "modifier_snapshot_incomplete"
 msgstr "Snapshot модификатора неполный"
+
+msgid "snapshot_discount_detail_missing"
+msgstr "Детализация скидки не найдена при снапшоте заказа '%1', скидка '%2'"
+
+msgid "applied_discount_value_missing"
+msgstr "Значение применённой скидки '%1' отсутствует в снапшоте"
+
+msgid "qr_wrong_prefix"
+msgstr "Неверный префикс QR-кода"
+
+msgid "qr_empty_payload"
+msgstr "Пустое содержимое QR-кода"
+
+msgid "qr_too_long"
+msgstr "Слишком длинный QR-код"
