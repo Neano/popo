@@ -550,3 +550,12 @@ msgstr "QR code payload is empty"
 
 msgid "qr_too_long"
 msgstr "QR code is too long"
+
+msgid "loyalty_rk_friends_discount_fallback"
+msgstr "rkFriends discount"
+
+msgid "loyalty_discount_overcount"
+msgstr "Discount total %1 exceeds per-line sum %2"
+
+msgid "loyalty_discount_negative"
+msgstr "Negative discount on line %1 (remainder %2)"

@@ -550,3 +550,12 @@ msgstr "Пустое содержимое QR-кода"
 
 msgid "qr_too_long"
 msgstr "Слишком длинный QR-код"
+
+msgid "loyalty_rk_friends_discount_fallback"
+msgstr "Скидка rkFriends"
+
+msgid "loyalty_discount_overcount"
+msgstr "Сумма скидки %1 превышает сумму по позициям %2"
+
+msgid "loyalty_discount_negative"
+msgstr "Отрицательная скидка по позиции %1 (остаток %2)"
