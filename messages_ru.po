@@ -296,6 +296,9 @@ msgstr "Кассовая станция не найдена"
 msgid "cannot_apply_discount_to_combo_part"
 msgstr "Невозможно применить скидку к части комбо"
 
+msgid "cannot_apply_catalog_discount_in_rk_friends_mode"
+msgstr "Нельзя применить каталожную скидку в режиме rkFriends"
+
 msgid "cannot_delete_order"
 msgstr "Невозможно удалить заказ"
 
@@ -559,3 +562,12 @@ msgstr "Сумма скидки %1 превышает сумму по позиц
 
 msgid "loyalty_discount_negative"
 msgstr "Отрицательная скидка по позиции %1 (остаток %2)"
+
+msgid "loyalty_use_refund"
+msgstr "Бонусы недоступны при возврате по заказу %1"
+
+msgid "loyalty_unknown_bid_state"
+msgstr "Неизвестное состояние заявки лояльности: %1"
+
+msgid "loyalty_close_sum_mismatch"
+msgstr "Несовпадение суммы при закрытии заявки по заказу %1: заказ %2, чеки %3"

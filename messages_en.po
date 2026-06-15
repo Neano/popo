@@ -296,6 +296,9 @@ msgstr "Cash station not found"
 msgid "cannot_apply_discount_to_combo_part"
 msgstr "Cannot apply discount to combo part"
 
+msgid "cannot_apply_catalog_discount_in_rk_friends_mode"
+msgstr "Cannot apply catalog discount in rkFriends mode"
+
 msgid "cannot_delete_order"
 msgstr "Cannot delete order"
 
@@ -559,3 +562,12 @@ msgstr "Discount total %1 exceeds per-line sum %2"
 
 msgid "loyalty_discount_negative"
 msgstr "Negative discount on line %1 (remainder %2)"
+
+msgid "loyalty_use_refund"
+msgstr "Loyalty bonuses are not available for refund on order %1"
+
+msgid "loyalty_unknown_bid_state"
+msgstr "Unknown loyalty bid state: %1"
+
+msgid "loyalty_close_sum_mismatch"
+msgstr "Sum mismatch on bid close for order %1: order %2, receipts %3"
