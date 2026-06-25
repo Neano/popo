@@ -582,4 +582,4 @@ msgid "markup_calc_artefact_not_found"
 msgstr "Не найдены артефакты для расчета наценки с гуидом '%1'"
 
 msgid "applied_markup_value_missing"
-msgstr "Примененная наценка с гуидом '%1' не найдена"
+msgstr "Значение применённой наценки '%1' отсутствует в снапшоте"
