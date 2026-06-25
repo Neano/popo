@@ -445,3 +445,15 @@ msgstr "Оплата не найдена в заказе. Гуид заказа=
 
 msgid "order_calc_info_part_not_found"
 msgstr "Не найдены данные из расчета заказа с гуидом=%1. Тип данных: %2"
+
+msgid "markup_guid_not_found"
+msgstr "Наценка с гуидом '%1' не найдена"
+
+msgid "markup_calc_info_not_found"
+msgstr "Расчет наценки с гуидом '%1' не найден"
+
+msgid "markup_calc_artefact_not_found"
+msgstr "Не найдены артефакты для расчета наценки с гуидом '%1'"
+
+msgid "applied_markup_value_missing"
+msgstr "Примененная наценка с гуидом '%1' не найдена"

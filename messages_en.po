@@ -445,3 +445,15 @@ msgstr "Payment line not found in order. Order guid=%1, payment line guid=%2"
 
 msgid "order_calc_info_part_not_found"
 msgstr "Calc part with guid=%1 not found. Part type: %2"
+
+msgid "markup_guid_not_found"
+msgstr "Markup guid '%1' not found"
+
+msgid "markup_calc_info_not_found"
+msgstr "Markup calc info with guid '%1' not found"
+
+msgid "markup_calc_artefact_not_found"
+msgstr "Markup calc artefact for markup calc info with guid '%1' not found"
+
+msgid "applied_markup_value_missing"
+msgstr "Applied markup with guid '%1' not found"
